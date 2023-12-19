@@ -1,5 +1,5 @@
 # Intro_Sentiment_Classification
-Lexicon-based Classification and Supervised Models (SVM).
+Lexicon-based Classification and Supervised Models (SVM) in Python.
 
 This repo contains homework assignments from my Masters of Science in Data Analytics program. These homeworks utilize Python to create the foundation of sentiment analysis. 
 
